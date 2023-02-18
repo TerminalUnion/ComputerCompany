@@ -4,6 +4,6 @@
 
 ## Our Products
 
-### Minny
+### [Minny](https://github.com/TerminalUnion/ComputerCompany/tree/main/Computers/Minny)
 
 Our first product.
