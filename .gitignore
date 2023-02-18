@@ -1,2 +1,11 @@
 # .DS_Store(macOS)
 .DS_Store
+
+# CMake
+CMakeFiles
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+
+# Minny executable
+min
