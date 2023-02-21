@@ -6,4 +6,5 @@ project(Minny)
 
 add_executable(min
     main.cpp
+    sys.h
 )
